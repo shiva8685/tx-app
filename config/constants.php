@@ -1,0 +1,28 @@
+<?php
+
+return [
+        'WEBSITE_ROOT-live' => 'http://fidaa.weaversmartonline.store/public/testing',
+        'ROOT_URL-live' => 'http://fidaa.weaversmartonline.store/public',
+        'WEBSITE_ROOT' => 'http://192.168.43.182/funfida/public/testing',
+        'ROOT_URL' => 'http://192.168.43.182/funfida/public',
+        'COMMENTS_LIMIT_ONSCROLL' => 10,
+        'LIMIT_5' => 5,
+        'LIMIT_10' => 10,
+        'LIMIT_15' => 15,
+        'LIMIT_20' => 20,
+        'LIMIT_25' => 25,
+        'LIMIT_30' => 30,
+        'VIDEOS_LIMIT_ONSCROLL' => 12,
+        'THEME_COLOR' => '#FDD501',
+        'DUET' => 'duet',
+        'STITCHV' => 'stitchv',
+        'STITCHC' => 'stitchc',
+        'PROFILE_PHOTO_WIDTH' => 120,
+        'PROFILE_PHOTO_HEIGHT' => 148,
+        'DUMMY_USERID' => 'dummyId',
+        'WEBSITE_APP_NAME-live' => 'fidaa.weaversmartonline.store',
+        'WEBSITE_APP_NAME' => 'http://192.168.43.182/funfida/public',
+        'DB_PREF' => 'u687203648_',
+        'MAIN_DB_PREF' => 'u687203648_',
+        'STORAGE_BUCKET' => 'bucket7675-',
+    ];
